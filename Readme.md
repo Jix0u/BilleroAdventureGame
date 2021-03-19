@@ -1,9 +1,4 @@
 # BILLERO'S ADVENTURE GAME
+<img width="1280" alt="Screen Shot 2020-12-04 at 1 46 57 PM" src="https://user-images.githubusercontent.com/55889031/111806585-8314e500-88a8-11eb-9b8d-58b2156a5836.png">
 
-
-
-
-
-
-https://user-images.githubusercontent.com/55889031/111533540-45e01400-873d-11eb-832b-81a1d7c9b37a.mp4
-
+## Let's go on a adventure!
